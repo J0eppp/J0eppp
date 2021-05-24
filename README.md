@@ -1,4 +1,12 @@
+![](https://komarev.com/ghpvc/?username=J0eppp)
 ### Hi there 👋
+
+🔭 I’m currently working on: [magistergo](https://github.com/J0eppp/magistergo), [goauthenticator](https://github.com/J0eppp/goauthenticator)
+
+⚡ Fun fact: I am a hockey referee
+
+📫 How to reach me: 
+- Discord: Joep#8651
 
 <!--
 **J0eppp/J0eppp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
