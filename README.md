@@ -6,7 +6,7 @@
 ⚡ Fun fact: I am a hockey referee
 
 📫 How to reach me: 
-- Discord: Joep#8651
+- E-mail: [joep@j0eppp.dev](mailto:joep@j0eppp.dev)
 
 <!--
 **J0eppp/J0eppp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
