@@ -2,9 +2,9 @@
 ### Hi there 👋
 
 <!--🔭 I’m currently working on: [magistergo](https://github.com/J0eppp/magistergo), [goauthenticator](https://github.com/J0eppp/goauthenticator)-->
-🔭 I’m currently working on: [Fiverr](https://www.fiverr.com/share/EXLR59)
+<!-- 🔭 I’m currently working on: [Fiverr](https://www.fiverr.com/share/EXLR59) -->
 
-⚡ Fun fact: I am a hockey referee
+<!-- ⚡ Fun fact: I am a hockey referee -->
 
 📫 How to reach me: 
 - E-mail: [joep.van.dijk04@gmail.com](mailto:joep.van.dijk04@gmail.com)
